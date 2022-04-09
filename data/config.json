@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "pubInterval": "5000"
+  },
+  "ssid": "IoT518",
+  "w_pw": "iot123456",
+  "org": "g7rf2i",
+  "devType": "sensor",
+  "devId": "sensor2",
+  "token": "12341234",
+  "config": "done"
+}
